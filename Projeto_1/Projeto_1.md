@@ -32,14 +32,5 @@ O relatório é dividido nas seguintes seções:
 ## Script R Utilizados
 - O script utilizado para gerar os gráficos estão disponíveis, permitindo uma melhor compreensão e reprodução das análises
 
-## Instruções de Uso
-
-1. **Acessar o Relatório**: Para visualizar o relatório, acesse [link para o relatório Power BI].
-2. **Interação com o Relatório**: Use os filtros interativos para explorar diferentes segmentos de vendas e lucros, podendo selecionar períodos, produtos ou regiões específicas.
-3. **Exploração de Gráficos**: Clique nos gráficos para obter informações detalhadas e insights adicionais.
-
-## Conclusão
-
-Este relatório financeiro serviu como um exemplo prático de análise de desempenho de vendas e lucros, desenvolvido para treinar habilidades analíticas utilizando dados simulados. Através de análises exploratórias e preditivas, este documento é uma ferramenta valiosa para aprender a identificar oportunidades de crescimento e otimização. O objetivo é preparar-se para aplicar esses conceitos e métodos em dados reais, contribuindo para decisões informadas e estratégicas no ambiente de negócios. 
 
 

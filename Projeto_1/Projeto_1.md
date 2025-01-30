@@ -1,9 +1,10 @@
 ## Descrição do Projeto
 
-Este relatório financeiro foi desenvolvido como parte de um treinamento utilizando Power BI e R no bootcamp "Engenharia de Dados com Python e Power BI" na NTT DATA – DIO. 
+Este relatório financeiro foi desenvolvido como parte de um treinamento que utilizou Power BI e Python no bootcamp 'Engenharia de Dados com Python e Power BI', promovido pela NTT DATA – DIO.
 
 ## Objetivo
-O objetivo foi realizar uma análise abrangente das vendas e lucros. O foco era desenvolver habilidades na extração de insights acionáveis sobre o desempenho financeiro, facilitando a aplicação prática em cenários de negócios reais e a tomada de decisões estratégicas.
+O objetivo foi realizar uma análise abrangente das vendas e lucros, com foco no desenvolvimento de habilidades na extração de insights acionáveis sobre o desempenho financeiro. 
+Além disso, o projeto explorou a integração da ferramenta R dentro do Power BI, ampliando a capacidade de análise e facilitando a aplicação prática em cenários de negócios reais e a tomada de decisões estratégicas.
 
 ## Estrutura do Relatório
 
@@ -30,7 +31,7 @@ O relatório é dividido nas seguintes seções:
 - **Fonte dos Dados**: Exemplo do Power_BI - Financials
 
 ## Script R Utilizados
-- O script utilizado para gerar os gráficos estão disponíveis, permitindo uma melhor compreensão e reprodução das análises
+- O script utilizado para gerar os gráficos estão disponíveis, permitindo uma melhor compreensão e reprodução das análises.
 
 
 

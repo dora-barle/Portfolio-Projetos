@@ -34,11 +34,11 @@ O reporte é dividido nas seguintes seções:
 
 Este reporte é composto por três arquivos:
 
-1. **Projeto_1.pbix(Power BI)**: Este arquivo contém o reporte financeiro interativo desenvolvido no Power BI. Ele oferece visualizações detalhadas sobre vendas, lucros e outros indicadores financeiros.
+1. **Projeto_1_RF.pbix(Power BI)**: Este arquivo contém o reporte financeiro interativo desenvolvido no Power BI. Ele oferece visualizações detalhadas sobre vendas, lucros e outros indicadores financeiros.
    
-2. **Projeto_1.pdf**: Um documento em PDF que apresenta o reporte completo.
+2. **Projeto_1_RF.pdf**: Um documento em PDF que apresenta o reporte completo.
 
-3. **Script_R_Projeto_1.R**: O script R utilizado para realizar as análises estatísticas, gerar gráficos e figuras utilizadas no reporte. Este arquivo inclui visualizações e modelagens preditivas para complementar as análises feitas no Power BI.
+3. **Script_R_Projeto_1_RF.R**: O script R utilizado para realizar as análises estatísticas, gerar gráficos e figuras utilizadas no reporte. Este arquivo inclui visualizações e modelagens preditivas para complementar as análises feitas no Power BI.
 
 
 

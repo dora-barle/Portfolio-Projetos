@@ -11,7 +11,7 @@ Este projeto foi desenvolvido como parte de um treinamento para colocar em prát
 ## Dados Utilizados
 
 - **Fonte dos Dados**: Os dados foram obtidos através do IntegraRHC, do Registros Hospitalares de Câncer, disponível em [https://irhc.inca.gov.br/RHCNet/visualizaTabNetExterno.action](https://irhc.inca.gov.br/RHCNet/visualizaTabNetExterno.action).
-- O conjunto de dados totaliza 1.987.418 registros, abrangendo os anos de 2018 a 2022, e está disponível na plataforma.
+- O conjunto de dados totaliza 1.987.418 registros, abrangendo os anos de 2018 a 2022, e está disponível na plataforma. Download realizado em 05/11/2024.
 
 ## O Repositório de Análise de Dados de Câncer
 

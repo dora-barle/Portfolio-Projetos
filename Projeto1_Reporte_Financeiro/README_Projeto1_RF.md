@@ -6,7 +6,7 @@ Este reporte financeiro foi desenvolvido como parte de um treinamento que utiliz
 O objetivo foi realizar uma análise abrangente das vendas e lucros, com foco no desenvolvimento de habilidades na extração de insights acionáveis sobre o desempenho financeiro. 
 Além disso, o projeto explorou a integração da ferramenta R dentro do Power BI, ampliando a capacidade de análise e facilitando a aplicação prática em cenários de negócios reais e a tomada de decisões estratégicas.
 
-## Dados Utilizados
+## Dados
 - **Fonte dos Dados**: Exemplo do Power_BI - Financials
 
 ## Estrutura do Reporte Financeiro
@@ -30,9 +30,7 @@ O reporte é dividido nas seguintes seções:
 
 
 
-# Reporte Financeiro
-
-Este reporte é composto por três arquivos:
+# Repositório
 
 1. **Projeto_1_RF.pbix(Power BI)**: Este arquivo contém o reporte financeiro interativo desenvolvido no Power BI. Ele oferece visualizações detalhadas sobre vendas, lucros e outros indicadores financeiros.
    

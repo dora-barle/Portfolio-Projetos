@@ -19,7 +19,7 @@ Este repositório é composto pelos seguintes arquivos:
 
 1. **Projeto_Cancer_Analise.pbix (Power BI)**: Este arquivo contém o dashboard interativo desenvolvido no Power BI, com visualizações detalhadas sobre os 10 tipos de câncer mais prevalentes, a prevalência do câncer por faixa etária e a distribuição dos casos de câncer no país. Traz também informações sobre histórico familiar, tabagismo e alcoolismo.
 
-2. **Projeto_Cancer_Analise.jpg**: Dashboard completo.
+2. **Projeto_Cancer_Analise.png**: Dashboard completo.
 
 3. **Codigos_M_PowerBI_Cancer.txt**: O script em linguagem M utilizado para realizar algumas substituições nos dados originais, tornando-os mais compreensíveis.
 

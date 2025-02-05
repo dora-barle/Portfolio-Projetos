@@ -38,9 +38,6 @@ horizontais e verticais aleatórios.
 
 ## O Repositório:
 
-1. **RNC_Final.py**: Script em Python que implementa a Rede Neural Convolucional (RNC) utilizada para a classificação das espécies do cluster Drosophila 
-buzzatii. O script inclui a definição da arquitetura da rede, o processo de 
-treinamento com técnicas de Data Augmentation, o ajuste de parâmetros e a avaliação do modelo utilizando métricas como acurácia, recall 
-e matriz de confusão. Além disso, o script contém a implementação de otimizações para melhorar o desempenho da rede.
+1. **RNC_Final.py**: Script em Python que implementa a Rede Neural Convolucional (RNC) utilizada para a classificação das espécies do cluster Drosophila buzzatii. O script inclui a definição da arquitetura da rede, o processo de treinamento com técnicas de Data Augmentation, o ajuste de parâmetros e a avaliação do modelo utilizando métricas como acurácia, recall e matriz de confusão. Além disso, o script contém a implementação de otimizações para melhorar o desempenho da rede.
 2. **Resultado_RNC_Final.txt**: Resultado da matriz de confusão, recall e precisão.
 3. **Resultado_treinamento_RNC_Final.txt**: Resultado do treinamento da RNC

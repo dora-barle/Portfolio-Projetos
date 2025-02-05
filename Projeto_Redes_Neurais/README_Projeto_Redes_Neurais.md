@@ -10,13 +10,13 @@ O cluster Drosophila buzzatii compreende sete espécies endêmicas e cactófilas
 
 Tabela 1. Espécies incluídas e número de imagens utilizadas para a construção do modelo.
 
-| Classe | Espécie        | Base de Dados | Treinamento | Validação |
-|--------|----------------|---------------|-------------|-----------|
-| 0      | D. antonietae  | 394           | 315         | 79        |
-| 1      | D. gouveai     | 163           | 130         | 33        |
-| 2      | D. seriema     | 209           | 167         | 42        |
-| 3      | D. serido      | 236           | 188         | 48        |
-|        | **Total**      | **1002**      | **800**     | **202**   |
+| Classe | Espécie          | Base de Dados | Treinamento | Validação |
+|--------|------------------|---------------|-------------|-----------|
+| 0      | _D. antonietae_  | 394           | 315         | 79        |
+| 1      | _D. gouveai_     | 163           | 130         | 33        |
+| 2      | _D. seriema_     | 209           | 167         | 42        |
+| 3      | _D. serido_      | 236           | 188         | 48        |
+|        | **Total**        | **1002**      | **800**     | **202**   |
 
 
 

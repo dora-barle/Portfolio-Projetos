@@ -8,7 +8,7 @@ O cluster Drosophila buzzatii compreende sete espécies endêmicas e cactófilas
 **Fonte dos Dados**: A rede foi treinada utilizando uma base de dados de imagens de edeagos das diferentes espécies do cluster D. buzzatii, armazenada no Laboratório de Genética Evolutiva do Departamento de Biologia – FFCLRP – USP. Como o conjunto de treinamento (CTre) não era ideal, utilizou-se a técnica de Data Augmentation, que cria variações artificiais nos dados de treinamento através da aplicação de transformações simples nas imagens originais. Entre as transformações mais comuns estão rotações, espelhamento horizontal, ajustes de brilho e contraste, zoom e outras distorções. O CTre foi aumentado nove vezes ao aplicar rotação de 180 graus, deslocamento horizontal e vertical aleatório, cisalhamento aleatório, efeito de zoom, além de espelhamentos horizontais e verticais aleatórios.
 
 
-# Tabela 1. Espécies incluídas e número de imagens utilizadas para a construção do modelo.
+Tabela 1. Espécies incluídas e número de imagens utilizadas para a construção do modelo.
 
 | Classe | Espécie        | Base de Dados | Treinamento | Validação |
 |--------|----------------|---------------|-------------|-----------|

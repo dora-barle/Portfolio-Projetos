@@ -24,3 +24,5 @@ Este repositório é composto pelos seguintes arquivos:
 3. **Codigos_M_PowerBI_Cancer.txt**: O script em linguagem M utilizado para realizar algumas substituições nos dados originais, tornando-os mais compreensíveis.
 
 4. **Dicionario_bases_de_dados_download_IRHC.pdf e CID-O_Clasificacao_cancer.pdf**: PDFs com as informações necessárias para compreender os códigos e realizar as substituições necessárias para trabalhar com os dados. Obtidos no IntegraRHC.
+
+5. **Pre_Tratamento_Dados.R**: Scripts R.

@@ -29,8 +29,7 @@ O reporte é dividido nas seguintes seções:
    - **Projeção de Vendas para 2015**: Modelo preditivo baseado nas vendas de 2013 e 2014 para estimar as vendas em 2015.
 
 
-
-# Repositório
+## Repositório
 
 1. **Projeto_1_RF.pbix(Power BI)**: Este arquivo contém o reporte financeiro interativo desenvolvido no Power BI. Ele oferece visualizações detalhadas sobre vendas, lucros e outros indicadores financeiros.
    
